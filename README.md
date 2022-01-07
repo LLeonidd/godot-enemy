@@ -1,0 +1,1 @@
+# An enemy that follows the player to inflict an attack. The area of visibility of the player's detection is configured. As soon as the player enters the line of sight, the enemy begins to move towards the player to inflict an attack. The enemy has 2 types of attack.
